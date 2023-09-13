@@ -6,7 +6,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NewBTD/install-this-if-you-boring"
+  },
+  "keywords": [
+    "tools"
+  ],
   "author": "",
   "license": "ISC"
 }
